@@ -1,0 +1,23 @@
+{
+  "name": "duang",
+  "authors": [
+    "mskim <meixingkim@sina.com>"
+  ],
+  "description": "a duang duang tooltip",
+  "main": "duang.html",
+  "keywords": [
+    
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
